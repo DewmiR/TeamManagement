@@ -22,6 +22,10 @@ myApp.config(['$routeProvider', function($routeProvider) {
       templateUrl: 'views/course-single.html',
       controller: 'SingleCourseController'
     }).
+    when('/my_friends', {
+      templateUrl: 'views/my-friends.html',
+      controller: 'MyfriendsController'
+    }).
     otherwise({
       redirectTo: '/login'
     });
