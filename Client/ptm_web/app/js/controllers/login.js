@@ -12,9 +12,9 @@ myApp.controller('LoginController', ['$scope','$http','$location', function($sco
       }).success(
         function(data){
           if(data == "pass"){
-            $location.url('/course');            
+            $location.url('/profile');            
           }else{
-            $location.url('#/home');
+            $location.url('/login');
           }
         }
       ).error(

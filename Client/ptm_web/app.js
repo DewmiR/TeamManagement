@@ -8,7 +8,12 @@ var LocalStrategy = require('passport-local').Strategy;
 var mongoose = require('mongoose');
 var cookieParser = require('cookie-parser');
 var session = require('express-session');
+
+//models
 var User = require("./models/user");
+var Course = require("./models/course");
+var Enroll = require("./models/enroll");
+
 mongoose.connect("mongodb://localhost:27017/ptm_db");
 
 
@@ -109,22 +114,20 @@ app.get('/pass', function (req, res) {
 });
 
 
+app.get('/test', function (req, res) {
+	Enroll.getUsersEnrolledInCourse('ObjectId("57d85c9b40a3fd25b3720b73")',function (err,data) {
+		console.log(data);
+    	if(err) throw err;
+	});
+});
 
+app.get('/getAllCourses', function (req, res) {
+	Course.getAllCourses(function(err,courses){
+		if(err) throw err;
 
-
-// app.post('/login', function (req, res) {
-
-// 	var newUser = new User({
-//         username : req.body.username,
-//         password : req.body.password
-//     });
-
-// 	User.createUser(newUser,function (err,user) {
-//     	if(err) throw err;
-// 	});
-
-// });
-
+		res.send(courses);
+	});
+});
 
 
 

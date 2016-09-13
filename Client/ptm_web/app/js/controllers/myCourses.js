@@ -12,7 +12,7 @@ $scope.loadCourses = function () {
     var params = {};
     $http({
             method: 'GET',
-            url:'http://localhost:8080/get_courses',
+            url:'/getAllCourses',
             params: params
         }).then(
                 function success(response) {
