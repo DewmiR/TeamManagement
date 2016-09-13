@@ -18,6 +18,11 @@ class ApiController extends Controller {
         return json_encode($users);
         //return "working";
     }
+	 public function getAllCourses(){
+        $courses = DB::table('courses')->get();
+        return json_encode($courses);
+        //return "working";
+    }
 
     
 

@@ -22,6 +22,7 @@ Route::controllers([
 
 
 Route::get('get_users','ApiController@getAllUsers');
+Route::get('get_courses','ApiController@getAllCourses');
 
 
 Route::post('checkUser','ApiController@checkUser');

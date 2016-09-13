@@ -8,7 +8,7 @@ START SITE HERE
         <a class="navbar-brand with-text" title="PSD to HTML" href="index.html">EduPress.</a>
         <ul class="sidebar-nav">
             <li><a href="member-profile.html">My Profile <span><i class="fa fa-user"></i></span></a></li>
-            <li class="active"><a href="member-courses.html">My Courses <span><i class="fa fa-briefcase"></i></span></a></li>
+            <li class="active"><a href="#/my_courses">My Courses <span><i class="fa fa-briefcase"></i></span></a></li>
             <li><a href="member-achievements.html">My Achievements <span><i class="fa fa-trophy"></i></span></a></li>
             <li><a href="member-messages.html">My Messages <span><i class="fa fa-comment-o"></i></span></a></li>
             <li><a href="member-friends.html">My Friends <span><i class="fa fa-share-alt"></i></span></a></li>
@@ -58,15 +58,16 @@ START SITE HERE
                                 <h3>Active Courses</h3>
                                 <hr>
                             </div><!-- end title -->
+                            <div ng-repeat="course in courses">
                             <div class="row">
                                 <div class="col-lg-5 col-md-5">
                                     <div class="video-wrapper clearfix">
                                         <div class="post-media">
                                             <div class="entry">
-                                                <img src="upload/blog_01.jpg" alt="" class="img-responsive">
+                                                <img src="upload/{{ course.image }}" alt="" class="img-responsive">
                                                 <div class="magnifier">
                                                     <div class="magni-desc">
-                                                        <a class="secondicon" href="course-single.html"> <span class="oi" data-glyph="link-intact" title="Read More" aria-hidden="false"></span></a>
+                                                        <a class="secondicon" href="#/single_course/{{ course.id }}"> <span class="oi" data-glyph="link-intact" title="Read More" aria-hidden="false"></span></a>
                                                     </div><!-- end team-desc -->
                                                 </div><!-- end magnifier -->
                                             </div>
@@ -76,7 +77,7 @@ START SITE HERE
                                 <div class="col-lg-7 col-md-7">
                                     <div class="video-wrapper">
                                         <div class="widget-title clearfix">
-                                            <h3><a href="course-single.html">Learn English in 20 Days</a></h3>
+                                            <h3><a href="course-single.html">{{ course.course_name}}</a></h3>
                                             <div class="rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -89,183 +90,12 @@ START SITE HERE
                                     </div><!-- end video-wrapper -->
                                 </div>
                             </div><!-- end row -->
-
-                            <hr>
-
-                            <div class="row">
-                                <div class="col-lg-5 col-md-5">
-                                    <div class="video-wrapper clearfix">
-                                        <div class="post-media">
-                                            <div class="entry">
-                                                <img src="upload/blog_02.jpg" alt="" class="img-responsive">
-                                                <div class="magnifier">
-                                                    <div class="magni-desc">
-                                                        <a class="secondicon" href="course-single.html"> <span class="oi" data-glyph="link-intact" title="Read More" aria-hidden="false"></span></a>
-                                                    </div><!-- end team-desc -->
-                                                </div><!-- end magnifier -->
-                                            </div>
-                                        </div><!-- end media -->
-                                    </div><!--widget -->
-                                </div><!-- end col -->
-                                <div class="col-lg-7 col-md-7">
-                                    <div class="video-wrapper">
-                                        <div class="widget-title clearfix">
-                                            <h3><a href="course-single.html">Learning Web Design</a></h3>
-                                            <div class="rating">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </div>
-                                            <small><a href="#">View Course</a>  -  Expires : 22 June 2016</small>
-                                        </div><!-- end title -->
-                                    </div><!-- end video-wrapper -->
-                                </div>
-                            </div><!-- end row -->
-
-                            <hr>
-
-                            <div class="row">
-                                <div class="col-lg-5 col-md-5">
-                                    <div class="video-wrapper clearfix">
-                                        <div class="post-media">
-                                            <div class="entry">
-                                                <img src="upload/blog_03.jpg" alt="" class="img-responsive">
-                                                <div class="magnifier">
-                                                    <div class="magni-desc">
-                                                        <a class="secondicon" href="course-single.html"> <span class="oi" data-glyph="link-intact" title="Read More" aria-hidden="false"></span></a>
-                                                    </div><!-- end team-desc -->
-                                                </div><!-- end magnifier -->
-                                            </div>
-                                        </div><!-- end media -->
-                                    </div><!--widget -->
-                                </div><!-- end col -->
-                                <div class="col-lg-7 col-md-7">
-                                    <div class="video-wrapper">
-                                        <div class="widget-title clearfix">
-                                            <h3><a href="course-single.html">Getting Starting App Design</a></h3>
-                                            <div class="rating">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-o"></i>
-                                                <i class="fa fa-star-o"></i>
-                                            </div>
-                                            <small><a href="#">View Course</a>  -  Expires : 22 June 2016</small>
-                                        </div><!-- end title -->
-                                    </div><!-- end video-wrapper -->
-                                </div>
-                            </div><!-- end row -->
-
-                            <hr>
-
-                            <div class="row">
-                                <div class="col-lg-5 col-md-5">
-                                    <div class="video-wrapper clearfix">
-                                        <div class="post-media">
-                                            <div class="entry">
-                                                <img src="upload/blog_04.jpg" alt="" class="img-responsive">
-                                                <div class="magnifier">
-                                                    <div class="magni-desc">
-                                                        <a class="secondicon" href="course-single.html"> <span class="oi" data-glyph="link-intact" title="Read More" aria-hidden="false"></span></a>
-                                                    </div><!-- end team-desc -->
-                                                </div><!-- end magnifier -->
-                                            </div>
-                                        </div><!-- end media -->
-                                    </div><!--widget -->
-                                </div><!-- end col -->
-                                <div class="col-lg-7 col-md-7">
-                                    <div class="video-wrapper">
-                                        <div class="widget-title clearfix">
-                                            <h3><a href="course-single.html">HTML5 Video Design</a></h3>
-                                            <div class="rating">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </div>
-                                            <small><a href="#">View Course</a>  -  Expires : 22 June 2016</small>
-                                        </div><!-- end title -->
-                                    </div><!-- end video-wrapper -->
-                                </div>
-                            </div><!-- end row -->
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="register-widget clearfix">
                             <div class="widget-title">
-                                <h3>Expired Courses</h3>
-                                <hr>
+                                <h1></h1>
+                                <br>
+                                
                             </div><!-- end title -->
-             
-                            <div class="row">
-                                <div class="col-lg-5 col-md-5">
-                                    <div class="video-wrapper clearfix">
-                                        <div class="post-media">
-                                            <div class="entry">
-                                                <img src="upload/blog_05.jpg" alt="" class="img-responsive">
-                                                <div class="magnifier">
-                                                    <div class="magni-desc">
-                                                        <a class="secondicon" href="course-single.html"> <span class="oi" data-glyph="link-intact" title="Read More" aria-hidden="false"></span></a>
-                                                    </div><!-- end team-desc -->
-                                                </div><!-- end magnifier -->
-                                            </div>
-                                        </div><!-- end media -->
-                                    </div><!--widget -->
-                                </div><!-- end col -->
-                                <div class="col-lg-7 col-md-7">
-                                    <div class="video-wrapper">
-                                        <div class="widget-title clearfix">
-                                            <h3><a href="course-single.html">Working with a Group</a></h3>
-                                            <div class="rating">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                            </div>
-                                            <small><a href="#">View Course</a>  -  <a href="#">Expired : Re-join the course</a></small>
-                                        </div><!-- end title -->
-                                    </div><!-- end video-wrapper -->
-                                </div>
-                            </div><!-- end row -->
-
-                            <hr>
-
-                            <div class="row">
-                                <div class="col-lg-5 col-md-5">
-                                    <div class="video-wrapper clearfix">
-                                        <div class="post-media">
-                                            <div class="entry">
-                                                <img src="upload/blog_06.jpg" alt="" class="img-responsive">
-                                                <div class="magnifier">
-                                                    <div class="magni-desc">
-                                                        <a class="secondicon" href="course-single.html"> <span class="oi" data-glyph="link-intact" title="Read More" aria-hidden="false"></span></a>
-                                                    </div><!-- end team-desc -->
-                                                </div><!-- end magnifier -->
-                                            </div>
-                                        </div><!-- end media -->
-                                    </div><!--widget -->
-                                </div><!-- end col -->
-                                <div class="col-lg-7 col-md-7">
-                                    <div class="video-wrapper">
-                                        <div class="widget-title clearfix">
-                                            <h3><a href="course-single.html">5 Step to Build a Website</a></h3>
-                                            <div class="rating">
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star"></i>
-                                                <i class="fa fa-star-o"></i>
-                                            </div>
-                                            <small><a href="#">View Course</a>  -  <a href="#">Expired : Re-join the course</a></small>
-                                        </div><!-- end title -->
-                                    </div><!-- end video-wrapper -->
-                                </div>
-                            </div><!-- end row -->
+                            </div>
                         </div>
                     </div>
                 </div><!-- end row -->
