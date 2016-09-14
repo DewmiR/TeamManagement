@@ -52,15 +52,17 @@ START SITE HERE
         <div class="section">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-12">
                         <div class="clearfix">
+                            
                             <div class="widget-title">
                                 <h3>Active Courses</h3>
                                 <hr>
                             </div><!-- end title -->
+                            
                             <div ng-repeat="course in courses">
                             <div class="row">
-                                <div class="col-lg-5 col-md-5">
+                                <div class="col-lg-4 col-md-4">
                                     <div class="video-wrapper clearfix">
                                         <div class="post-media">
                                             <div class="entry">
@@ -74,7 +76,7 @@ START SITE HERE
                                         </div><!-- end media -->
                                     </div><!--widget -->
                                 </div><!-- end col -->
-                                <div class="col-lg-7 col-md-7">
+                                <div class="col-lg-6 col-md-6">
                                     <div class="video-wrapper">
                                         <div class="widget-title clearfix">
                                             <h3><a href="course-single.html">{{ course.courseName}}</a></h3>
@@ -85,7 +87,10 @@ START SITE HERE
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                             </div>
-                                            <small><a href="#">View Course</a>  -  Expires : 22 June 2016</small>
+                                            <small>
+                                                Expires : 22 June 2016 <br/>
+                                                <a href="" ng-click="loadMembers(course._id)">View Members</a>   
+                                            </small>
                                         </div><!-- end title -->
                                     </div><!-- end video-wrapper -->
                                 </div>

@@ -22,7 +22,7 @@ myApp.config(['$routeProvider', function($routeProvider) {
       templateUrl: 'views/course-single.html',
       controller: 'SingleCourseController'
     }).
-    when('/my_friends', {
+    when('/my_friends/:cid', {
       templateUrl: 'views/my-friends.html',
       controller: 'MyfriendsController'
     }).

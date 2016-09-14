@@ -129,8 +129,9 @@ app.get('/getAllCourses', function (req, res) {
 	});
 });
 
-app.get('/getUsersEnrolledInCourse', function (req, res) {
-	Enroll.getUsersEnrolledInCourse('ObjectId("57d85c9b40a3fd25b3720b73")',function (err,friends) {
+app.post('/getUsersEnrolledInCourse', function (req, res) {
+
+	Enroll.getUsersEnrolledInCourse(req.body.cid,function (err,friends) {
     	if(err) throw err;
 
     	res.send(friends);
