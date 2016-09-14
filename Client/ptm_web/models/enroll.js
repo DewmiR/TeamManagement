@@ -4,7 +4,9 @@ var mongoose = require('mongoose');
 
 var EnrollSchema = new mongoose.Schema({
 	courseId: String,
-	userId: String
+	userId: String,
+	userName: String,
+	userImage: String
 });
 
 var Enroll = module.exports = mongoose.model('Enroll',EnrollSchema);
