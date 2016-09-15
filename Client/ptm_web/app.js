@@ -24,7 +24,7 @@ mongoose.connect("mongodb://localhost:27017/ptm_db");
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(function(req, res, next) {
-	console.log(`${req.method} request for '${req.url}' - ${JSON.stringify(req.body)}`);
+	//console.log(`${req.method} request for '${req.url}' - ${JSON.stringify(req.body)}`);
 	next();
 });
 app.use(express.static("./app"));
@@ -96,6 +96,11 @@ app.get('/', function (req, res) {
    res.sendfile('app/index.html');
 });
 
+app.get('/lecturer', function (req, res) {
+	res.sendfile('app/lecturer/index.html');
+});
+
+
 app.post("/getUser",function(req,res){
     res.send(req.user);
 });
@@ -137,12 +142,6 @@ app.post('/getUsersEnrolledInCourse', function (req, res) {
     	res.send(friends);
 	});
 });
-
-
-
-
-
-
 
 
 

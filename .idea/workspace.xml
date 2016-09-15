@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="118ba389-91d5-49be-9be3-dd76c17f047a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/css/animate.css.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/css/bootstrap.min.css.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/css/style.css.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/font-awesome/css/font-awesome.css.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/patterns/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/patterns/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/patterns/header-profile-skin-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/patterns/header-profile-skin-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/patterns/header-profile-skin-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/patterns/header-profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/patterns/shattered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/blueimp/img/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/blueimp/img/error.svg.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/blueimp/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/blueimp/img/play-pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/blueimp/img/play-pause.svg.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/blueimp/img/video-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/blueimp/img/video-play.svg.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/chosen/chosen-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/chosen/chosen-sprite@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/footable/fonts/footable.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/footable/fonts/footable.svg.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/footable/fonts/footable.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/footable/fonts/footable.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/footable/fonts/footabled41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/iCheck/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/iCheck/green@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/images/bootstrap-colorpicker/alpha-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/images/bootstrap-colorpicker/alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/images/bootstrap-colorpicker/hue-horizontal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/images/bootstrap-colorpicker/hue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/images/bootstrap-colorpicker/saturation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/images/sprite-skin-flat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/slick/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/slick/fonts/slick.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/slick/fonts/slick.svg.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/slick/fonts/slick.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/slick/fonts/slick.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/slick/fonts/slickd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/summernote/font/summernote6659.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/summernote/font/summernote6659.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/summernote/font/summernote6659.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/summernote/font/summernoted41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/email_templates/img/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/font-awesome/fonts/fontawesome-webfontd41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/font-awesome/fonts/fontawesome-webfonte0a5.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/font-awesome/fonts/fontawesome-webfonte0a5.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/font-awesome/fonts/fontawesome-webfonte0a5.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/font-awesome/fonts/fontawesome-webfonte0a5.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/fonts/glyphicons-halflings-regulard41d.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/a1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/a2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/a3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/a4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/a5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/a6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/a7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/a8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/angular_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/dashbard4_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/dashbard4_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/email_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/email_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/email_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/16/Spain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/16/United-States.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Abkhazia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Afghanistan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Aland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Albania.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Algeria.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/American-Samoa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Andorra.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Angola.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Anguilla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Antarctica.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Antigua-and-Barbuda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Argentina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Armenia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Aruba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Australia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Austria.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Azerbaijan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Bahamas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Bahrain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Bangladesh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Barbados.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Basque-Country.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Belarus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Belgium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Belize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Benin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Bermuda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Bhutan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Bolivia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Bosnia-and-Herzegovina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Botswana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Brazil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/British-Antarctic-Territory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/British-Virgin-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Brunei.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Bulgaria.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Burkina-Faso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Burundi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Cambodia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Cameroon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Canada.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Canary-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Cape-Verde.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Cayman-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Central-African-Republic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Chad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Chile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/China.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Christmas-Island.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Cocos-Keeling-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Colombia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Commonwealth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Comoros.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Cook-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Costa-Rica.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Cote-dIvoire.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Croatia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Cuba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Curacao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Cyprus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Czech-Republic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Democratic-Republic-of-the-Congo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Denmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Djibouti.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Dominica.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Dominican-Republic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/East-Timor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Ecuador.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Egypt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/El-Salvador.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/England.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Equatorial-Guinea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Eritrea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Estonia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Ethiopia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/European-Union.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Falkland-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Faroes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Fiji.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Finland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/France.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/French-Polynesia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/French-Southern-Territories.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Gabon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Gambia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Georgia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Germany.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Ghana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Gibraltar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/GoSquared.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Greece.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Greenland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Grenada.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Guam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Guatemala.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Guernsey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Guinea-Bissau.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Guinea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Guyana.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Haiti.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Honduras.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Hong-Kong.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Hungary.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Iceland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/India.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Indonesia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Iran.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Iraq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Ireland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Isle-of-Man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Israel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Italy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Jamaica.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Japan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Jersey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Jordan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Kazakhstan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Kenya.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Kiribati.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Kosovo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Kuwait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Kyrgyzstan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Laos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Latvia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Lebanon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Lesotho.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Liberia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Libya.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Liechtenstein.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Lithuania.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Luxembourg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Macau.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Macedonia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Madagascar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Malawi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Malaysia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Maldives.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Mali.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Malta.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Mars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Marshall-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Martinique.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Mauritania.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Mauritius.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Mayotte.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Mexico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Micronesia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Moldova.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Monaco.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Mongolia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Montenegro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Montserrat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Morocco.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Mozambique.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Myanmar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/NATO.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Nagorno-Karabakh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Namibia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Nauru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Nepal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Netherlands-Antilles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Netherlands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/New-Caledonia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/New-Zealand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Nicaragua.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Niger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Nigeria.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Niue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Norfolk-Island.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/North-Korea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Northern-Cyprus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Northern-Mariana-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Norway.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Olympics.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Oman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Pakistan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Palau.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Palestine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Panama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Papua-New-Guinea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Paraguay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Peru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Philippines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Pitcairn-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Poland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Portugal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Puerto-Rico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Qatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Red-Cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Republic-of-the-Congo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Romania.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Russia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Rwanda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Saint-Barthelemy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Saint-Helena.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Saint-Kitts-and-Nevis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Saint-Lucia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Saint-Martin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Saint-Vincent-and-the-Grenadines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Samoa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/San-Marino.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Sao-Tome-and-Principe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Saudi-Arabia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Scotland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Senegal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Serbia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Seychelles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Sierra-Leone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Singapore.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Slovakia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Slovenia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Solomon-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Somalia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Somaliland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/South-Africa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/South-Georgia-and-the-South-Sandwich-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/South-Korea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/South-Ossetia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/South-Sudan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Spain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Sri-Lanka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Sudan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Suriname.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Swaziland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Sweden.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Switzerland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Syria.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Taiwan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Tajikistan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Tanzania.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Thailand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Togo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Tokelau.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Tonga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Trinidad-and-Tobago.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Tunisia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Turkey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Turkmenistan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Turks-and-Caicos-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Tuvalu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/US-Virgin-Islands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Uganda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Ukraine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/United-Arab-Emirates.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/United-Kingdom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/United-Nations.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/United-States.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Unknown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Uruguay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Uzbekistan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Vanuatu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Vatican-City.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Venezuela.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Vietnam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Wales.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Wallis-And-Futuna.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Western-Sahara.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Yemen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Zambia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/flags/32/Zimbabwe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/full_height.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/10s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/11s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/12s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/1s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/2s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/3s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/4s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/5s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/6s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/7s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/8s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/gallery/9s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/html_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/avatar1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/avatar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/avatar3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/avatar_all.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/dashboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/header_one.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/header_two.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/iphone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/laptop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/perspective.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/landing/word_map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/meteor_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/mvc_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/off_canvas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/p1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/p2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/p3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/p_big1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/p_big2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/p_big3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/profile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/profile_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/profile_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/rails_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/img/zender_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/gritter/images/gritter-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/gritter/images/gritter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/gritter/images/ie-spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/pdf/example.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/angular-translate/angular-translate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/angular/angular-sanitize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/bootstrap/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/bootstrap/ui-bootstrap-tpls-1.1.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/controllers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/directives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/inspinia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/jquery/jquery-2.1.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/plugins/angular-idle/angular-idle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/plugins/jquery-ui/jquery-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/plugins/metisMenu/jquery.metisMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/plugins/oclazyload/dist/ocLazyLoad.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/plugins/pace/pace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/plugins/slimscroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/translations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/Angular/js/ui-router/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/blueimp/css/blueimp-gallery.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/bootstrap-markdown/bootstrap-markdown.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/bootstrap-tagsinput/bootstrap-tagsinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/bootstrapSocial/bootstrap-social.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/bootstrapTour/bootstrap-tour.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/c3/c3.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/chartist/chartist.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/chosen/bootstrap-chosen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/clockpicker/clockpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/codemirror/ambiance.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/codemirror/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/colorpicker/bootstrap-colorpicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/cropper/cropper.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/dataTables/datatables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/datapicker/datepicker3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/daterangepicker/daterangepicker-bs3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/dropzone/basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/dropzone/dropzone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/dualListbox/bootstrap-duallistbox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/fonts/glyphicons-halflings-regular-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/fonts/glyphicons-halflings-regular-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/fonts/glyphicons-halflings-regular-4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/fonts/glyphicons-halflings-regular.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/fonts/glyphicons-halflings-regulard41d.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/footable/footable.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/fullcalendar/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/fullcalendar/fullcalendar.print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/iCheck/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/ionRangeSlider/ion.rangeSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/ionRangeSlider/ion.rangeSlider.skinFlat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/jquery-ui-1.10.4.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jQueryUI/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jasny/jasny-bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jqGrid/ui.jqgrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/jsTree/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/ladda/ladda-themeless.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/morris/morris-0.4.3.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/nouslider/jquery.nouislider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/select2/select2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/slick/slick-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/slick/slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/steps/jquery.steps.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/summernote/summernote-bs3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/summernote/summernote.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/sweetalert/sweetalert.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/switchery/switchery.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/toastr/toastr.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/plugins/touchspin/jquery.bootstrap-touchspin.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/email_templates/action.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/email_templates/alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/email_templates/billing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/email_templates/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/font-awesome/fonts/fontawesome-webfonte0a5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/controllers/coursesEnrolled.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/demo/chartjs-demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/demo/flot-demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/demo/morris-demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/demo/peity-demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/demo/rickshaw-demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/demo/sparkline-demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/inspinia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/jquery-2.1.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/jquery-ui-1.10.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/jquery-ui.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/blueimp/jquery.blueimp-gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/bootstrap-markdown/bootstrap-markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/bootstrap-markdown/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/bootstrap-tagsinput/bootstrap-tagsinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/bootstrapTour/bootstrap-tour.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/c3/c3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/chartJs/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/chartist/chartist.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/chosen/chosen.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/clipboard/clipboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/clockpicker/clockpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/codemirror/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/codemirror/mode/javascript/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/codemirror/mode/xml/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/colorpicker/bootstrap-colorpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/cropper/cropper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/d3/d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/dataTables/datatables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/datamaps/datamaps.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/datapicker/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/daterangepicker/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/diff_match_patch/javascript/diff_match_patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/dotdotdot/jquery.dotdotdot.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/dropzone/dropzone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/dualListbox/jquery.bootstrap-duallistbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/easypiechart/jquery.easypiechart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/flot/curvedLines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/flot/jquery.flot.resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/flot/jquery.flot.spline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/flot/jquery.flot.symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/flot/jquery.flot.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/flot/jquery.flot.tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/footable/footable.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/fullcalendar/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/gritter/jquery.gritter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/gritter/jquery.gritter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/i18next/i18next.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/iCheck/icheck.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/idle-timer/idle-timer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/ionRangeSlider/ion.rangeSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/jasny/jasny-bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/jqGrid/i18n/grid.locale-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/jqGrid/jquery.jqGrid.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/jquery-ui/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/jsKnob/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/jsTree/jstree.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/jvectormap/jquery-jvectormap-2.0.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/ladda/ladda.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/ladda/ladda.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/ladda/spin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/masonary/masonry.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/metisMenu/jquery.metisMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/morris/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/morris/raphael-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/nestable/jquery.nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/nouslider/jquery.nouislider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/pace/pace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/pdfjs/pdf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/peity/jquery.peity.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/preetyTextDiff/jquery.pretty-text-diff.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/rickshaw/rickshaw.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/rickshaw/vendor/d3.v3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/select2/select2.full.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/slick/slick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/slimscroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/sparkline/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/staps/jquery.steps.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/summernote/summernote.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/sweetalert/sweetalert.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/switchery/switchery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/tinycon/tinycon.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/toastr/toastr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/topojson/topojson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/touchspin/jquery.bootstrap-touchspin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/typehead/bootstrap3-typeahead.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/validate/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/video/responsible-video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/plugins/wow/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/app/lecturer/views/coursesEnrolled.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/JSONStream.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/acorn.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/browser-pack.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/browserify.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/cake.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/coffee.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/deps-sort.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/errno.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/esparse.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/esvalidate.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/has-ansi.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/image-size.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/insert-module-globals.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/js-yaml.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/jshint.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/lessc.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/miller-rabin.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/mime.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/mkdirp.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/module-deps.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/nopt.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/rimraf.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/semver.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/sha.js.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/shjs.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/strip-ansi.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/strip-json-comments.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/supports-color.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/umd.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/watchify.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/which.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/browser-pack.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/deps-sort.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/insert-module-globals.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/module-deps.cmd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/app.js" afterPath="$PROJECT_DIR$/Client/ptm_web/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/JSONStream" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/JSONStream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/acorn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/browser-pack" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/browser-pack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/browserify" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/browserify" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/cake" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/cake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/coffee" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/deps-sort" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/deps-sort" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/errno" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/errno" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/has-ansi" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/has-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/image-size" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/image-size" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/insert-module-globals" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/insert-module-globals" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/js-yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/jshint" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/jshint" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/lessc" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/lessc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/miller-rabin" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/miller-rabin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/mime" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/mkdirp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/module-deps" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/module-deps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/nopt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/rimraf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/semver" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/sha.js" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/sha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/shjs" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/shjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/strip-ansi" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/strip-ansi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/strip-json-comments" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/strip-json-comments" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/supports-color" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/supports-color" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/umd" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/umd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/watchify" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/watchify" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/which" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/.bin/which" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/browser-pack" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/browser-pack" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/deps-sort" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/deps-sort" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/insert-module-globals" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/insert-module-globals" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/module-deps" afterPath="$PROJECT_DIR$/Client/ptm_web/node_modules/watchify/node_modules/.bin/module-deps" />
+    </list>
+    <ignored path="TeamManagement.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TeamManagement" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/ptm_web/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2074">
+              <caret line="122" column="51" selection-start-line="122" selection-start-column="51" selection-end-line="122" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coursesEnrolled.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/views/coursesEnrolled.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coursesEnrolled.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/controllers/coursesEnrolled.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="courses.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/views/courses.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#6#12#0" expanded="true" />
+                <element signature="e#12#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-friends.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/views/my-friends.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Client/ptm_web/lecturer/index.html" />
+        <option value="$PROJECT_DIR$/Client/ptm_web/app.js" />
+        <option value="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/controllers/coursesEnrolled.js" />
+        <option value="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/controllers/app.js" />
+        <option value="$PROJECT_DIR$/Client/ptm_web/app/lecturer/index.html" />
+        <option value="$PROJECT_DIR$/Client/ptm_web/app/lecturer/views/coursesEnrolled.html" />
+        <option value="$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Client/ptm_web/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1432" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamManagement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamManagement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamManagement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ptm_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamManagement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamManagement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ptm_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TeamManagement\Client\ptm_web\app\lecturer\js\controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TeamManagement\Client\ptm_web\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="118ba389-91d5-49be-9be3-dd76c17f047a" name="Default" comment="" />
+      <created>1473910789075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1473910789075</updated>
+      <workItem from="1473910793588" duration="147000" />
+      <workItem from="1473910964120" duration="429000" />
+      <workItem from="1473911402331" duration="35000" />
+      <workItem from="1473911441646" duration="4471000" />
+      <workItem from="1473919466277" duration="6979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12061000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1432" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24027778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/js/all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/lecturer/index.html" />
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/mailbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/js/controllers/course.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/js/controllers/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/controllers/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="122" column="51" selection-start-line="122" selection-start-column="51" selection-end-line="122" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/views/my-friends.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/views/course-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/controllers/coursesEnrolled.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/views/coursesEnrolled.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/views/courses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#6#12#0" expanded="true" />
+            <element signature="e#12#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client/ptm_web/app/lecturer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
